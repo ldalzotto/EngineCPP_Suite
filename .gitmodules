@@ -1,0 +1,9 @@
+[submodule "EngineCPP_Tools"]
+	path = EngineCPP_Tools
+	url = https://github.com/ldalzotto/EngineCPP_Tools.git
+[submodule "EngineCPPRewrite"]
+	path = EngineCPPRewrite
+	url = https://github.com/ldalzotto/EngineCPPRewrite.git
+[submodule "EngineCPP"]
+	path = EngineCPP
+	url = https://github.com/ldalzotto/EngineCPP.git
